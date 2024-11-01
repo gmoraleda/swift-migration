@@ -5,8 +5,6 @@ GEM
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
     afm (0.2.2)
-    amazon-ecs (2.6.0)
-      nokogiri (~> 1.10)
     async (2.18.0)
       console (~> 1.26)
       fiber-annotation
@@ -154,9 +152,7 @@ PLATFORMS
   x86_64-linux-gnu
 
 DEPENDENCIES
-  amazon-ecs
   html-proofer (~> 5.0)
-  i18n
   jekyll (~> 4.3.4)
   jekyll-github-metadata (>= 2.15)
   jekyll-include-cache
