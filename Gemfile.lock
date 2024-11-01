@@ -157,7 +157,7 @@ DEPENDENCIES
   jekyll-github-metadata (>= 2.15)
   jekyll-include-cache
   jekyll-sitemap
-  just-the-docs
+  just-the-docs (= 0.10.0)
 
 BUNDLED WITH
    2.5.9
