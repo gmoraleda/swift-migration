@@ -36,6 +36,8 @@ A great point to start is to read the official migration guide for Swift Concurr
 - [Sendable and @Sendable closures](https://www.hackingwithswift.com/swift/5.5/sendable), by Paul Hudson
 - [Understanding Concurrency in Swift 6 with Sendable protocol, MainActor, and async-await](https://medium.com/@egzonpllana/understanding-concurrency-in-swift-6-with-sendable-protocol-mainactor-and-async-await-5ccfdc0ca2b6), by Egzon Pllana
 
----
+## Contributing
+
+If you have a resource you would like to share, please [open an issue](https://github.com/gmoraleda/swift-migration/issues/new/) or submit a pull request. You can also reach out to me on [X](https://twitter.com/gmoraleda_).
 
 [^1]: These are affiliate links. If you buy a book using these links, I may earn a small commission. This helps me maintain this site and keep it free of ads. Thank you for your support!
