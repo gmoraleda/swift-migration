@@ -8,7 +8,7 @@ permalink: /
 
 # Swift 6 Migration Resources
 
-Swift 6 was introduced the 16th of September 2024. This site is a collection of resources to help you migrate your Swift code to Swift 6.
+Swift 6 was introduced the _16th of September 2024_. This site is a collection of resources to help you migrate your Swift code to Swift 6.
 {: .fs-6 .fw-300 }
 
 ---
