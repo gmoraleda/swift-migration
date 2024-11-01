@@ -1,6 +1,6 @@
 title: Swift 6 Migration
 description: A collection of resources to help you migrate your Swift code to Swift 6.
-remote_theme: just-the-docs
+theme: just-the-docs
 url: swiftmigration.info
 
 permalink: pretty
@@ -172,7 +172,6 @@ plugins:
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-sitemap
-  - jekyll-remote-theme
 
 kramdown:
   syntax_highlighter_opts:
