@@ -323,6 +323,7 @@ DEPENDENCIES
   html-proofer (~> 5.0)
   jekyll-github-metadata (>= 2.15)
   jekyll-include-cache
+  jekyll-remote-theme
   jekyll-sitemap
   just-the-docs
 
