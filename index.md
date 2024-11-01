@@ -40,4 +40,6 @@ A great point to start is to read the official migration guide for Swift Concurr
 
 If you have a resource you would like to share, please [open an issue](https://github.com/gmoraleda/swift-migration/issues/new/) or submit a pull request. You can also reach out to me on [X](https://twitter.com/gmoraleda_).
 
+---
+
 [^1]: These are affiliate links. If you buy a book using these links, I may earn a small commission. This helps me maintain this site and keep it free of ads. Thank you for your support!
