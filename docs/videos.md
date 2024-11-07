@@ -10,6 +10,10 @@ This is a collection of videos about Swift concurrency and Swift 6. If you have 
 
 ---
 
+### WWDC24: Migrate your app to Swift 6, Apple
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/75-c6jSE8kU?si=nEd9tQVp2IzYb8qh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### A Deep Dive Into Sendable for the Apple Developer, Tim Condon SwiftCraft 2024
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9RgvESMaO1M?si=1DayB5ymuxP3CVqX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
