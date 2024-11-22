@@ -35,6 +35,7 @@ A great point to start is to read the official migration guide for Swift Concurr
 - [Sendable and @Sendable closures explained with code examples](https://www.avanderlee.com/swift/sendable-protocol-closures/), by SwiftLee
 - [Sendable and @Sendable closures](https://www.hackingwithswift.com/swift/5.5/sendable), by Paul Hudson
 - [Understanding Concurrency in Swift 6 with Sendable protocol, MainActor, and async-await](https://medium.com/@egzonpllana/understanding-concurrency-in-swift-6-with-sendable-protocol-mainactor-and-async-await-5ccfdc0ca2b6), by Egzon Pllana
+- [Thread Safety with Mutex in Swift 6](https://medium.rip/@noahlittle199/thread-safety-with-mutex-in-swift-6-575e79f14386), by Noah Little
 
 ## Contributing
 
