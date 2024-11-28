@@ -45,7 +45,7 @@ If you have a resource you would like to share, please [open an issue](https://g
 
 ## Get Help
 
-If you or your team need help migrating your Swift code to Swift 6, I can help. I have experience migrating Swift codebases to the latest Swift versions. You can reach out to me on [GitHub](https://github.com/gmoraleda), [LinkedIn](https://www.linkedin.com/in/gmoraleda), or [Bluesky](https://bsky.app/profile/gmoraleda.bsky.social).
+If you or your team need help migrating your Swift code to Swift 6, I can help. I have experience migrating Swift codebases to the latest Swift versions. You can reach out to me [per e-mail](mailto:swift.migration@gmx.net).
 
 ---
 
