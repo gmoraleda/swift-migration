@@ -36,10 +36,16 @@ A great point to start is to read the official migration guide for Swift Concurr
 - [Sendable and @Sendable closures](https://www.hackingwithswift.com/swift/5.5/sendable), by Paul Hudson
 - [Understanding Concurrency in Swift 6 with Sendable protocol, MainActor, and async-await](https://medium.com/@egzonpllana/understanding-concurrency-in-swift-6-with-sendable-protocol-mainactor-and-async-await-5ccfdc0ca2b6), by Egzon Pllana
 - [Thread Safety with Mutex in Swift 6](https://medium.rip/@noahlittle199/thread-safety-with-mutex-in-swift-6-575e79f14386), by Noah Little
+- [Swift 6 Incomplete Migration Guide for Dummies](https://brightdigit.com/tutorials/swift-6-async-await-actors-fixes/), by brightdigit
+- [ Migrating to Swift 6](https://apiumhub.com/tech-blog-barcelona/migrating-to-swift-6/), by Apium
 
 ## Contributing
 
 If you have a resource you would like to share, please [open an issue](https://github.com/gmoraleda/swift-migration/issues/new/) or submit a pull request. You can also reach out to me on [X](https://twitter.com/gmoraleda_).
+
+## Get Help
+
+If you or your team need help migrating your Swift code to Swift 6, I can help. I have experience migrating Swift codebases to the latest Swift versions. You can reach out to me on [GitHub](https://github.com/gmoraleda), [LinkedIn](https://www.linkedin.com/in/gmoraleda), or [Bluesky](https://bsky.app/profile/gmoraleda.bsky.social).
 
 ---
 
