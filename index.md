@@ -41,7 +41,7 @@ A great point to start is to read the official migration guide for Swift Concurr
 
 ## Contributing
 
-If you have a resource you would like to share, please [open an issue](https://github.com/gmoraleda/swift-migration/issues/new/) or submit a pull request. You can also reach out to me on [X](https://twitter.com/gmoraleda_).
+If you have a resource you would like to share, please [open an issue](https://github.com/gmoraleda/swift-migration/issues/new/) or submit a pull request. You can also reach out to me on [🦋](https://bsky.app/profile/gmoraleda.bsky.social).
 
 ## Get Help
 
